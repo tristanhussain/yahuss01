@@ -3,8 +3,7 @@
 
 
 
--🛠 Program Explanation:
-Enter a few text choices and a random choice will be selected.
+
 
 <!---
 yahuss01/yahuss01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
